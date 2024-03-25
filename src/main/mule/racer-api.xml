@@ -111,8 +111,6 @@ output application/json
         </error-handler>
     </flow>
     <flow name="post:\races:application\json:racer-api-config">
-
-
         <os:store key="token" doc:name="Store" doc:id="sullaa">
             <os:value>#[payload.token]</os:value>
         </os:store>
@@ -130,14 +128,15 @@ output application/json
                 </ee:set-payload>
             </ee:message>
         </ee:transform>
-
     </flow>
     <flow name="post:\temperatures:application\json:racer-api-config">
-        <logger level="INFO" message="post:\temperatures:application\json:racer-api-config" />
+        <ee:transform doc:name="Transform">
+            <ee:message>
+                <ee:set-payload resource="dw/transform.dwl" />
+            </ee:message>
+        </ee:transform>
     </flow>
     <flow name="post:\races\(id)\laps:text\plain:racer-api-config">
-        <logger doc:name="Logger" doc:id="lydyja" message="STARTING"/>
-
         <set-variable value="#[payload]" doc:name="newToken" doc:id="eseosl" variableName="newToken" />
         <set-variable value="#[attributes.uriParams.id]" variableName="raceId" doc:name="raceId" doc:id="xqpduj" />
         <os:retrieve key="token" doc:name="originalToken" doc:id="fudcos" target="originalToken" />
@@ -158,8 +157,5 @@ output application/json
                 </ee:set-payload>
             </ee:message>
         </ee:transform>
-        <logger doc:name="Logger" doc:id="zqljza" message="ENDING"/>
-
-
     </flow>
 </mule>
