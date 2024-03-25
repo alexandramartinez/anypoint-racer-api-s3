@@ -32,7 +32,6 @@
                         <provider>MC</provider>
                         <environment>Sandbox</environment>
                         <target>Cloudhub-US-East-2</target>
-                        <muleVersion>${mule.runtime.version}</muleVersion>
                         <server>anypoint-exchange-v3</server>
                         <connectedAppClientId>${client.id}</connectedAppClientId>
                         <connectedAppClientSecret>${client.secret}</connectedAppClientSecret>
