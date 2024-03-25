@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:apikit="http://www.mulesoft.org/schema/mule/mule-apikit" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:os="http://www.mulesoft.org/schema/mule/os" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd http://www.mulesoft.org/schema/mule/mule-apikit http://www.mulesoft.org/schema/mule/mule-apikit/current/mule-apikit.xsd http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd 
+	http://www.mulesoft.org/schema/mule/os http://www.mulesoft.org/schema/mule/os/current/mule-os.xsd">
+    <http:listener-config name="racer-api-httpListenerConfig">
+        <http:listener-connection host="0.0.0.0" port="8081" />
+    </http:listener-config>
+    <configuration-properties file="config.yaml" doc:name="Configuration properties" />
+    <apikit:config name="racer-api-config" api="resource::b903eebf-16e9-46c5-8992-bffd66c2306c:amartinez-racer-api:1.0.0:raml:zip:racer-api.raml" outboundHeadersMapName="outboundHeaders" httpStatusVarName="httpStatus" />
+    <flow name="racer-api-main">
+        <http:listener config-ref="racer-api-httpListenerConfig" path="/api/*">
+            <http:response statusCode="#[vars.httpStatus default 200]">
+                <http:headers>#[vars.outboundHeaders default {}]</http:headers>
+            </http:response>
+            <http:error-response statusCode="#[vars.httpStatus default 500]">
+                <http:body>#[payload]</http:body>
+                <http:headers>#[vars.outboundHeaders default {}]</http:headers>
+            </http:error-response>
+        </http:listener>
+        <apikit:router config-ref="racer-api-config" />
+        <error-handler>
+            <on-error-propagate type="APIKIT:BAD_REQUEST">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Bad request"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">400</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+            <on-error-propagate type="APIKIT:NOT_FOUND">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Resource not found"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">404</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+            <on-error-propagate type="APIKIT:METHOD_NOT_ALLOWED">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Method not allowed"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">405</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+            <on-error-propagate type="APIKIT:NOT_ACCEPTABLE">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Not acceptable"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">406</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+            <on-error-propagate type="APIKIT:UNSUPPORTED_MEDIA_TYPE">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Unsupported media type"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">415</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+            <on-error-propagate type="APIKIT:NOT_IMPLEMENTED">
+                <ee:transform doc:name="Transform Message">
+                    <ee:message>
+                        <ee:set-payload>
+                            <![CDATA[%dw 2.0
+output application/json
+---
+{message: "Not Implemented"}]]>
+                        </ee:set-payload>
+                    </ee:message>
+                    <ee:variables>
+                        <ee:set-variable variableName="httpStatus">501</ee:set-variable>
+                    </ee:variables>
+                </ee:transform>
+            </on-error-propagate>
+        </error-handler>
+    </flow>
+    <flow name="post:\races:application\json:racer-api-config">
+
+
+        <os:store key="token" doc:name="Store" doc:id="sullaa">
+            <os:value>#[payload.token]</os:value>
+        </os:store>
+        <ee:transform>
+            <ee:message>
+                <ee:set-payload>
+                    <![CDATA[%dw 2.0
+output application/json
+---
+{
+  "id": uuid(),
+  "racerId": Mule::p('racerId')
+}
+        ]]>
+                </ee:set-payload>
+            </ee:message>
+        </ee:transform>
+
+    </flow>
+    <flow name="post:\temperatures:application\json:racer-api-config">
+        <logger level="INFO" message="post:\temperatures:application\json:racer-api-config" />
+    </flow>
+    <flow name="post:\races\(id)\laps:text\plain:racer-api-config">
+        <logger doc:name="Logger" doc:id="lydyja" message="STARTING"/>
+
+        <set-variable value="#[payload]" doc:name="newToken" doc:id="eseosl" variableName="newToken" />
+        <set-variable value="#[attributes.uriParams.id]" variableName="raceId" doc:name="raceId" doc:id="xqpduj" />
+        <os:retrieve key="token" doc:name="originalToken" doc:id="fudcos" target="originalToken" />
+        <os:store key="token" doc:name="newToken" doc:id="uerykt">
+            <os:value>#[vars.newToken]</os:value>
+        </os:store>
+        <ee:transform>
+            <ee:message>
+                <ee:set-payload>
+                    <![CDATA[%dw 2.0
+output application/json
+---
+{
+  "racerId": Mule::p('racerId'),
+  "token": vars.originalToken
+}
+        ]]>
+                </ee:set-payload>
+            </ee:message>
+        </ee:transform>
+        <logger doc:name="Logger" doc:id="zqljza" message="ENDING"/>
+
+
+    </flow>
+</mule>
