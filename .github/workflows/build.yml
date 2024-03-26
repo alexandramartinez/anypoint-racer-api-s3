@@ -31,20 +31,8 @@ jobs:
                 -Dclient.id="${{ secrets.CONNECTED_APP_CLIENT_ID }}" \
                 -Dclient.secret="${{ secrets.CONNECTED_APP_CLIENT_SECRET }}"
 
-            - name: Build with Maven
-              run: mvn -B package --file pom.xml -DskipMunitTests
-            
-            - name: Stamp artifact file name with commit hash
-              run: |
-                artifactName1=$(ls target/*.jar | head -1)
-                commitHash=$(git rev-parse --short "$GITHUB_SHA")
-                artifactName2=$(ls target/*.jar | head -1 | sed "s/.jar/-$commitHash.jar/g")
-                mv $artifactName1 $artifactName2
-
             - name: Deploy to CloudHub 2.0
               run: |
-                artifactName=$(ls *.jar | head -1)
                 mvn deploy --settings .maven/settings.xml -DskipMunitTests -DmuleDeploy \
-                -Dmule.artifact=$artifactName \
                 -Dclient.id="${{ secrets.CONNECTED_APP_CLIENT_ID }}" \
                 -Dclient.secret="${{ secrets.CONNECTED_APP_CLIENT_SECRET }}"

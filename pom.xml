@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>b903eebf-16e9-46c5-8992-bffd66c2306c</groupId>
     <artifactId>anypoint-racer-api-s3</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <packaging>mule-application</packaging>
     <name>anypoint-racer-api-s3</name>
     <properties>
