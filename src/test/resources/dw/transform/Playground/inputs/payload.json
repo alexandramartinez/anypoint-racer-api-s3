@@ -1,0 +1,4002 @@
+[
+    {
+      "station": "Beijing",
+      "temperature": 19.26977
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.19166
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.65668
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.2075
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.93417
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.06746
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.65819
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.53984
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.70628
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.81147
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.0635
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 19.09223
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 19.59604
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.10543
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.24802
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 20.76905
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.59067
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.28103
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.34257
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.13593
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.06914
+    },
+    {
+      "station": "New York",
+      "temperature": 20.72374
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.36071
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.36534
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.9299
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.8994
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.13035
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.76236
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.22735
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.68737
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.66784
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.92089
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.10793
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 18.97792
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.34137
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.20748
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.92117
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.57871
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.12172
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.13545
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.00007
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.71653
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.36719
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.92665
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.33279
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.64449
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.04999
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.73633
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 18.68944
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 17.60886
+    },
+    {
+      "station": "Manila",
+      "temperature": 19.10801
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.46576
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.00391
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.32085
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.92362
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.72857
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.248
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.42982
+    },
+    {
+      "station": "New York",
+      "temperature": 23.77209
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.39328
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.40396
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.03396
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.2138
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 17.88283
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.22518
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.97935
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.81241
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.92448
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.88154
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.71106
+    },
+    {
+      "station": "Seoul",
+      "temperature": 21.21968
+    },
+    {
+      "station": "Cairo",
+      "temperature": 20.36565
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.8236
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 21.37011
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.5826
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.57349
+    },
+    {
+      "station": "New York",
+      "temperature": 22.73388
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.65119
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.92764
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.30003
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.80723
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.69841
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.66374
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.1047
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.26583
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.0637
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.98432
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.78562
+    },
+    {
+      "station": "New York",
+      "temperature": 23.30363
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 20.2695
+    },
+    {
+      "station": "Seoul",
+      "temperature": 21.39152
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 18.91249
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.35087
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.45303
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.67312
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.48459
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.39874
+    },
+    {
+      "station": "Delhi",
+      "temperature": 17.94086
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.247
+    },
+    {
+      "station": "Seoul",
+      "temperature": 21.22411
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.52266
+    },
+    {
+      "station": "New York",
+      "temperature": 20.35455
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 22.16347
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.00269
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.53039
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.3967
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.78012
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.7701
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 17.98393
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.48198
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.06364
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.95489
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.43558
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.36226
+    },
+    {
+      "station": "New York",
+      "temperature": 20.02936
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.561
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.48907
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.59822
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.45002
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.16865
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.594
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.16052
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.86099
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.60926
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.82315
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.82951
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.33545
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.06151
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.33779
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.29123
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.28728
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.13604
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.16571
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.53833
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.03442
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.14084
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 19.76034
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.57529
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.604
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.43624
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.15118
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.06746
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.57778
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.64403
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.77607
+    },
+    {
+      "station": "Delhi",
+      "temperature": 22.34264
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.50969
+    },
+    {
+      "station": "New York",
+      "temperature": 20.98279
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.13383
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.09728
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.17799
+    },
+    {
+      "station": "Manila",
+      "temperature": 15.72026
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.57801
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.19091
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.02559
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.80976
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.86132
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.3655
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 24.07201
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.79012
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.49233
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.54618
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.27914
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.8586
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.42081
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.00708
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.09232
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.85583
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.19489
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.36906
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.28921
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.43381
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.19534
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.61154
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.94321
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.61736
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.43109
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.81394
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.30365
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.47956
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.84384
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.71445
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.37146
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.0685
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.80492
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.29351
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.04363
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 19.38595
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.39749
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.50026
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.8825
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.03636
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.48955
+    },
+    {
+      "station": "New York",
+      "temperature": 22.32821
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.46795
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.15406
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.75935
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.22684
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.82007
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.33174
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.90259
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.22084
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.38102
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.83466
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.01955
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.40561
+    },
+    {
+      "station": "New York",
+      "temperature": 21.31857
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 18.51124
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.93096
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.31253
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.5997
+    },
+    {
+      "station": "Moscow",
+      "temperature": 23.17405
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.87178
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.03316
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.05473
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.74804
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.15638
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.03448
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.52452
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.03464
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.0272
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.82685
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.39679
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.40398
+    },
+    {
+      "station": "Moscow",
+      "temperature": 24.11758
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.76852
+    },
+    {
+      "station": "Cairo",
+      "temperature": 21.24462
+    },
+    {
+      "station": "New York",
+      "temperature": 20.78678
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.7522
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.60918
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.3507
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.72095
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.1157
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.55204
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.46662
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.59127
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.32655
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.95323
+    },
+    {
+      "station": "New York",
+      "temperature": 22.075
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.72948
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.65359
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 17.58506
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.23422
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.53619
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.63351
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.38838
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 16.92324
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.25976
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.34292
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.70665
+    },
+    {
+      "station": "Manila",
+      "temperature": 19.62352
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 17.61697
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.28314
+    },
+    {
+      "station": "Manila",
+      "temperature": 19.06531
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.28829
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.34658
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.2218
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 22.08346
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.33475
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.79428
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.25615
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 17.97894
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.89283
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.45313
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.1452
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.21904
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.89237
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.82728
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.17668
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.94124
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 17.55815
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.4151
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.65824
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.49909
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.55279
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.67289
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.83983
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.2832
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.77079
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.62408
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.82867
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.54319
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.08315
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.23733
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.625
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.0262
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.52597
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.95665
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.36207
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.85594
+    },
+    {
+      "station": "New York",
+      "temperature": 21.84081
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.02366
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.80646
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.75138
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.87468
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.20306
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.51984
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.55105
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.3998
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.75487
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.3859
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 17.59415
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 17.0165
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.64046
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.97569
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.51417
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.80842
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.0969
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.10173
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.19712
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.73367
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.4646
+    },
+    {
+      "station": "Delhi",
+      "temperature": 17.77654
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.83231
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.55861
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.989
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.60566
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.57988
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.57298
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.44246
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.1783
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.0557
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.77686
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.7196
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.21861
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.43537
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.74138
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.01925
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.36354
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.98231
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.08248
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.94322
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.7448
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.1786
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.74165
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.39954
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.22183
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.8047
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 16.98526
+    },
+    {
+      "station": "New York",
+      "temperature": 22.42789
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.13695
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.59025
+    },
+    {
+      "station": "New York",
+      "temperature": 22.3916
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.86072
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.10701
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.73293
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.65311
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.94087
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.73296
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.52863
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 20.92788
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.67771
+    },
+    {
+      "station": "Manila",
+      "temperature": 15.87082
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.07462
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.58728
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.50431
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.65242
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 20.51714
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.27483
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.80209
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.64325
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.53963
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.80287
+    },
+    {
+      "station": "Moscow",
+      "temperature": 19.9253
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.95856
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.89475
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.82748
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.63685
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.37163
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.63758
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.74588
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.61561
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.60342
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.41467
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.40194
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.37728
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.66453
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.34691
+    },
+    {
+      "station": "New York",
+      "temperature": 24.30834
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.77397
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 16.69646
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.557
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.95382
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.98346
+    },
+    {
+      "station": "New York",
+      "temperature": 21.22403
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 22.57037
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.48739
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.38222
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.00228
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.43348
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.3182
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.20204
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.12249
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.74621
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.35923
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.79924
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.28916
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.63381
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.52823
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.33999
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.1556
+    },
+    {
+      "station": "New York",
+      "temperature": 20.637
+    },
+    {
+      "station": "New York",
+      "temperature": 21.08213
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.32618
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.87064
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.15439
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.13125
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.27225
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.52609
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.03682
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.51646
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 17.65076
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.60417
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.42701
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.46944
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.23356
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 17.3591
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.11534
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.04602
+    },
+    {
+      "station": "Manila",
+      "temperature": 20.41689
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.82183
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.06019
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.54604
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.99804
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.26014
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.35693
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.34728
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.39755
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.25768
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.73774
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.04605
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.58261
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.50394
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.86628
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.76144
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.80967
+    },
+    {
+      "station": "Delhi",
+      "temperature": 21.61776
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 21.5342
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 22.17546
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.73648
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.77642
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.34853
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.77608
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.44451
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.26362
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.2562
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.67273
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.48266
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.21395
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.35885
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.81304
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.28785
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.61232
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.11908
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.45889
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.45891
+    },
+    {
+      "station": "Seoul",
+      "temperature": 22.2031
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 21.69219
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.07592
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.61839
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.10486
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.466
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.24883
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.03587
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.60626
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.56332
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.87023
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.28045
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.44908
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.53694
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.75568
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.63819
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.69619
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.34532
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.46537
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.12109
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.52999
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.52049
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.11741
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.13054
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.98148
+    },
+    {
+      "station": "New York",
+      "temperature": 22.88513
+    },
+    {
+      "station": "New York",
+      "temperature": 20.43155
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.91241
+    },
+    {
+      "station": "Seoul",
+      "temperature": 21.26639
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.20312
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.66965
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.17853
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.87707
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.47113
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.77571
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.72892
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.5668
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.86426
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.82649
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.30182
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.17523
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.92879
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 21.46124
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.2469
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.70835
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.49945
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.40642
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.76504
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.41289
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.78326
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.18169
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.57988
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.06128
+    },
+    {
+      "station": "New York",
+      "temperature": 21.93503
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.50881
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.76007
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.98296
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.61095
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.19015
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.41253
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.67293
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.0369
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.72482
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.48894
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.19854
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.16445
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.34788
+    },
+    {
+      "station": "Moscow",
+      "temperature": 23.71061
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.85161
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.79794
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.42467
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.54566
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.21181
+    },
+    {
+      "station": "New York",
+      "temperature": 22.37521
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.97297
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.93498
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.47305
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 18.92634
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.12803
+    },
+    {
+      "station": "Delhi",
+      "temperature": 21.55129
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.30394
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.4017
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.40925
+    },
+    {
+      "station": "New York",
+      "temperature": 23.3202
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.31281
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.64894
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.10894
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.17496
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.63595
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.18359
+    },
+    {
+      "station": "New York",
+      "temperature": 21.55813
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.25284
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.99848
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 19.60439
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.48894
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.76511
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.33847
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.77633
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.6355
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.23794
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 18.84186
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.8094
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.43218
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.02309
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.81292
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.67727
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.93311
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.03067
+    },
+    {
+      "station": "New York",
+      "temperature": 22.28344
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.22335
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.40943
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.77086
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.59187
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.80254
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.20269
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.45345
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.32975
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.52941
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.61019
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.27906
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.1551
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.42372
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.34277
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.32162
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.11811
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.57229
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.14924
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.86927
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.09197
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.88808
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.35038
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.33689
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.01885
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.80925
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.66331
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.76432
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.87604
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.15456
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.35703
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.54266
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.51854
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.56491
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.58502
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.74186
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.62511
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.71366
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 18.95711
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.43113
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.83242
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.24281
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.61864
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.73426
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.94404
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.07376
+    },
+    {
+      "station": "Moscow",
+      "temperature": 23.31154
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.49228
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.6886
+    },
+    {
+      "station": "New York",
+      "temperature": 22.74823
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.97892
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.40567
+    },
+    {
+      "station": "Cairo",
+      "temperature": 16.93444
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.51968
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.5408
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.21339
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.47902
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.54294
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.36577
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.73151
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.19948
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.91101
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.22661
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.54886
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.02939
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.69737
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.83638
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.51558
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.3391
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.10607
+    },
+    {
+      "station": "Manila",
+      "temperature": 20.25178
+    },
+    {
+      "station": "New York",
+      "temperature": 23.12166
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.01383
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.32429
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.85798
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.04554
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 21.30287
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.35906
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.10059
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.99196
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.89834
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.61162
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 24.56905
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.93487
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.11175
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 24.5467
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.23888
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.11233
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.33243
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.92008
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.05496
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.3224
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.73697
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.1255
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.59062
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.78998
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.71954
+    },
+    {
+      "station": "New York",
+      "temperature": 22.66958
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.95206
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.15249
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.80703
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.3393
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.7309
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.48945
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.33606
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 17.73835
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.08198
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.047
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.73207
+    },
+    {
+      "station": "Moscow",
+      "temperature": 23.66066
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.25377
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 22.13791
+    },
+    {
+      "station": "New York",
+      "temperature": 22.32511
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.05277
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.04958
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.99282
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 20.81472
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.7715
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.89394
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.81071
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.64046
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.23968
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.86588
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.23509
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.76148
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.90559
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.92819
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.41906
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.88834
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.09497
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.72941
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.04662
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.9182
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.7792
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 22.08233
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.07325
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.66682
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.50743
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.78846
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.88633
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 17.6645
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.39409
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.24017
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.87476
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.25967
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.46007
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.72961
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 21.28425
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.96029
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.12131
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.09918
+    },
+    {
+      "station": "New York",
+      "temperature": 20.50445
+    },
+    {
+      "station": "Manila",
+      "temperature": 19.26766
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.82545
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.56244
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.17553
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.42707
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.78496
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.51642
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 21.25758
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.08029
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.70687
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.32151
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.22384
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.32799
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 17.40084
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.36182
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.05206
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.96058
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.76715
+    },
+    {
+      "station": "New York",
+      "temperature": 23.34653
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.33775
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.76937
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.36057
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.20938
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.5167
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.21952
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.97356
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.82572
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.81377
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.08944
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.8838
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.70139
+    },
+    {
+      "station": "Lagos",
+      "temperature": 17.88147
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.92034
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.48794
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.99111
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 22.35505
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.95197
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.76804
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.43708
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.44282
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.36856
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.89065
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.11092
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.09132
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 19.85177
+    },
+    {
+      "station": "New York",
+      "temperature": 21.90279
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.88907
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.06675
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.18058
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.43027
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.71036
+    },
+    {
+      "station": "New York",
+      "temperature": 21.67794
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.5113
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.33413
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 19.76852
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.93641
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.91225
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.09569
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.67593
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.51468
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.89294
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.85063
+    },
+    {
+      "station": "Cairo",
+      "temperature": 20.41814
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.72909
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.71741
+    },
+    {
+      "station": "Cairo",
+      "temperature": 16.66776
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.09019
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.33699
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 22.03452
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.16017
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.17386
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.92497
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.39364
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.35306
+    },
+    {
+      "station": "Seoul",
+      "temperature": 21.13587
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 16.86645
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.4515
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.07188
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.36078
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.89019
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.81022
+    },
+    {
+      "station": "Delhi",
+      "temperature": 21.7264
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.558
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.83104
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.60564
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.21746
+    },
+    {
+      "station": "Lagos",
+      "temperature": 21.67471
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.09842
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.77871
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 17.68031
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.3649
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.06829
+    },
+    {
+      "station": "Manila",
+      "temperature": 19.43276
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.09211
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.35839
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.79425
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.95927
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.08306
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.97274
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 17.77396
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.94341
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.94705
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.38529
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.30668
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.87169
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.49092
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.36254
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.06632
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.11724
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.56951
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.18173
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.45501
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.42735
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.6461
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 23.16824
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 18.97986
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.20814
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.20317
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.48169
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.65617
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.09163
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.05475
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.46754
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.56758
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.24851
+    },
+    {
+      "station": "New York",
+      "temperature": 22.78214
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.96308
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.62812
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.9035
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.66459
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.50604
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.53177
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 18.20314
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.03018
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 19.27369
+    },
+    {
+      "station": "Beijing",
+      "temperature": 18.91749
+    },
+    {
+      "station": "Beijing",
+      "temperature": 22.23159
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.59476
+    },
+    {
+      "station": "New York",
+      "temperature": 22.92684
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.93979
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.36659
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.26326
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.84409
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.25922
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 21.92882
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 18.78967
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.06688
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.35254
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 21.28873
+    },
+    {
+      "station": "New York",
+      "temperature": 21.39494
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.47288
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 19.8009
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 17.74626
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 19.95836
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.35703
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.53256
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 18.65324
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.96615
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 21.89153
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.21901
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.6003
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.13766
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.24143
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.24196
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.20518
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.30848
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 17.82041
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.29981
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.79254
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.21405
+    },
+    {
+      "station": "Delhi",
+      "temperature": 18.7615
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.50355
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.0747
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.02946
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.56482
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.4914
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.59047
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.16803
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 20.00697
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.65112
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 20.08359
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.55481
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 21.87216
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 18.08455
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.96115
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.39998
+    },
+    {
+      "station": "Seoul",
+      "temperature": 20.3051
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.07345
+    },
+    {
+      "station": "New York",
+      "temperature": 22.93667
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.50679
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.50813
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 19.0551
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.70624
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.08743
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.94335
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 21.0967
+    },
+    {
+      "station": "Moscow",
+      "temperature": 20.93016
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 18.95155
+    },
+    {
+      "station": "Lagos",
+      "temperature": 20.36261
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.22114
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.97475
+    },
+    {
+      "station": "Cairo",
+      "temperature": 17.23528
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.26055
+    },
+    {
+      "station": "Beijing",
+      "temperature": 21.63146
+    },
+    {
+      "station": "Cairo",
+      "temperature": 19.02123
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.61506
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 21.80661
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 22.55999
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 19.60026
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.23712
+    },
+    {
+      "station": "New York",
+      "temperature": 23.52927
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.71141
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.36474
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.14307
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.51884
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.04504
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.73413
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.46454
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.70389
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 20.70997
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.44227
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.1623
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.48941
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.31493
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 18.62887
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.56188
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.909
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.77036
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 19.9958
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.15052
+    },
+    {
+      "station": "Lagos",
+      "temperature": 19.71725
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 20.99989
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 21.13144
+    },
+    {
+      "station": "New York",
+      "temperature": 22.37227
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 20.30552
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.4921
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.53518
+    },
+    {
+      "station": "Delhi",
+      "temperature": 19.45106
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 20.93968
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 21.13721
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.75776
+    },
+    {
+      "station": "Delhi",
+      "temperature": 20.39021
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.14684
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 21.86342
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 20.77696
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 17.78373
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 17.66649
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.13407
+    },
+    {
+      "station": "Tokyo",
+      "temperature": 18.29716
+    },
+    {
+      "station": "Cairo",
+      "temperature": 18.62034
+    },
+    {
+      "station": "New York",
+      "temperature": 21.59046
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.29929
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 20.04626
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.87892
+    },
+    {
+      "station": "Shanghai",
+      "temperature": 23.2162
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.78932
+    },
+    {
+      "station": "Shenzhen",
+      "temperature": 20.69228
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.34055
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.39437
+    },
+    {
+      "station": "Seoul",
+      "temperature": 19.35673
+    },
+    {
+      "station": "Lagos",
+      "temperature": 18.73265
+    },
+    {
+      "station": "Buenos Aires",
+      "temperature": 22.031
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 18.87365
+    },
+    {
+      "station": "Beijing",
+      "temperature": 19.36184
+    },
+    {
+      "station": "Moscow",
+      "temperature": 21.31233
+    },
+    {
+      "station": "New York",
+      "temperature": 20.9013
+    },
+    {
+      "station": "Beijing",
+      "temperature": 20.48988
+    },
+    {
+      "station": "Manila",
+      "temperature": 17.87001
+    },
+    {
+      "station": "Dhaka",
+      "temperature": 20.11934
+    },
+    {
+      "station": "Guangzhou",
+      "temperature": 21.27813
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.31013
+    },
+    {
+      "station": "Kolkāta",
+      "temperature": 21.27829
+    },
+    {
+      "station": "Bangkok",
+      "temperature": 19.61775
+    },
+    {
+      "station": "Moscow",
+      "temperature": 22.56905
+    },
+    {
+      "station": "Mexico City",
+      "temperature": 22.46583
+    },
+    {
+      "station": "Jakarta",
+      "temperature": 21.20254
+    },
+    {
+      "station": "Seoul",
+      "temperature": 18.32096
+    },
+    {
+      "station": "New York",
+      "temperature": 21.69779
+    },
+    {
+      "station": "New York",
+      "temperature": 22.18084
+    },
+    {
+      "station": "São Paulo",
+      "temperature": 20.41257
+    },
+    {
+      "station": "New York",
+      "temperature": 22.10773
+    },
+    {
+      "station": "Manila",
+      "temperature": 18.48411
+    },
+    {
+      "station": "Mumbai",
+      "temperature": 18.61399
+    },
+    {
+      "station": "Manila",
+      "temperature": 16.89762
+    }
+  ]

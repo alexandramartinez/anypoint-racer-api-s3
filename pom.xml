@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>b903eebf-16e9-46c5-8992-bffd66c2306c</groupId>
     <artifactId>anypoint-racer-api-s3</artifactId>
-    <version>1.0.11</version>
+    <version>1.0.12</version>
     <packaging>mule-application</packaging>
     <name>anypoint-racer-api-s3</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <mule.maven.plugin.version>4.1.1</mule.maven.plugin.version>
-        <mule.runtime.version>4.6-java8</mule.runtime.version>
+        <data.weave.version>2.6.0</data.weave.version>
     </properties>
     <build>
         <plugins>
@@ -79,6 +79,18 @@
         </pluginRepository>
     </pluginRepositories>
     <dependencies>
+        <dependency>
+            <groupId>org.mule.weave</groupId>
+            <artifactId>runtime</artifactId>
+            <version>${data.weave.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mule.weave</groupId>
+            <artifactId>core-modules</artifactId>
+            <version>${data.weave.version}</version>
+            <scope>provided</scope>
+        </dependency>
         <dependency>
             <groupId>b903eebf-16e9-46c5-8992-bffd66c2306c</groupId>
             <artifactId>amartinez-racer-api</artifactId>
