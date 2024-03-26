@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>b903eebf-16e9-46c5-8992-bffd66c2306c</groupId>
     <artifactId>anypoint-racer-api-s3</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.10</version>
     <packaging>mule-application</packaging>
     <name>anypoint-racer-api-s3</name>
     <properties>
@@ -27,18 +27,18 @@
                 <version>${mule.maven.plugin.version}</version>
                 <extensions>true</extensions>
                 <configuration>
+                    <classifier>mule-application</classifier>
                     <cloudhub2Deployment>
                         <uri>https://anypoint.mulesoft.com</uri>
                         <provider>MC</provider>
                         <environment>Sandbox</environment>
                         <target>Cloudhub-US-East-2</target>
-                        <server>anypoint-exchange-v3</server>
                         <connectedAppClientId>${client.id}</connectedAppClientId>
                         <connectedAppClientSecret>${client.secret}</connectedAppClientSecret>
                         <connectedAppGrantType>client_credentials</connectedAppGrantType>
                         <applicationName>${project.artifactId}</applicationName>
                         <replicas>1</replicas>
-                        <vCores>1</vCores>
+                        <vCores>0.1</vCores>
                         <deploymentSettings>
                             <generateDefaultPublicUrl>true</generateDefaultPublicUrl>
                         </deploymentSettings>
@@ -55,17 +55,17 @@
             <layout>default</layout>
         </repository>
         <repository>
-            <id>anypoint-exchange-v2</id>
-            <name>Anypoint Exchange</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v2/maven</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
             <id>mulesoft-releases</id>
             <name>MuleSoft Releases Repository</name>
             <url>https://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
+        <repository>
+            <id>Repository</id>
+            <name>Private Exchange repository</name>
+            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/${project.groupId}/maven</url>
+            <layout>default</layout>
+          </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
@@ -109,7 +109,7 @@
     </dependencies>
     <distributionManagement>
         <repository>
-            <id>anypoint-exchange-v3</id>
+            <id>Repository</id>
             <name>Corporate Repository</name>
             <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/${project.groupId}/maven</url>
             <layout>default</layout>
