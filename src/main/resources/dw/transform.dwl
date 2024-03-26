@@ -1,6 +1,5 @@
 %dw 2.0
-output application/json 
-// indent = false
+output application/json indent = false
 var stations = (payload.station distinctBy $ orderBy $)
 ---
 {
