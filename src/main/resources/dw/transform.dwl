@@ -1,7 +1,5 @@
 %dw 2.0
-output application/json 
-//indent = false
-// var stations = (payload.station distinctBy $ orderBy $)
+output application/json indent = false
 fun tailrec(arr, result={}) =
     if (isEmpty(arr)) result
     else tailrec(
@@ -13,7 +11,7 @@ fun tailrec(arr, result={}) =
 var obj = tailrec(payload)
 ---
 {
-    // racerId: Mule::p('racerId'),
+    racerId: Mule::p('racerId'),
     averages: (keysOf(obj) orderBy $) map ((station) -> {
         station: station,
         temperature: avg(obj[station]) as String {format: "##.#####"} as Number
