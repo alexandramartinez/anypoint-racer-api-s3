@@ -1,0 +1,122 @@
+[
+    {
+        "station": "Beijing",
+        "temperature": 19.98935310344827586206896551724138,
+        "temperaturesSize": 58,
+        "temperaturesSum": 1159.38248
+    },
+    {
+        "station": "Shanghai",
+        "temperature": 22.40859152173913043478260869565217,
+        "temperaturesSize": 46,
+        "temperaturesSum": 1030.79521
+    },
+    {
+        "station": "Tokyo",
+        "temperature": 19.42832203389830508474576271186441,
+        "temperaturesSize": 59,
+        "temperaturesSum": 1146.271
+    },
+    {
+        "station": "Lagos",
+        "temperature": 19.68649266666666666666666666666667,
+        "temperaturesSize": 60,
+        "temperaturesSum": 1181.18956
+    },
+    {
+        "station": "Guangzhou",
+        "temperature": 19.03982773584905660377358490566038,
+        "temperaturesSize": 53,
+        "temperaturesSum": 1009.11087
+    },
+    {
+        "station": "Dhaka",
+        "temperature": 19.42576714285714285714285714285714,
+        "temperaturesSize": 42,
+        "temperaturesSum": 815.88222
+    },
+    {
+        "station": "Manila",
+        "temperature": 17.76867890909090909090909090909091,
+        "temperaturesSize": 55,
+        "temperaturesSum": 977.27734
+    },
+    {
+        "station": "Kolkāta",
+        "temperature": 20.76500036363636363636363636363636,
+        "temperaturesSize": 55,
+        "temperaturesSum": 1142.07502
+    },
+    {
+        "station": "Moscow",
+        "temperature": 21.8736080952380952380952380952381,
+        "temperaturesSize": 42,
+        "temperaturesSum": 918.69154
+    },
+    {
+        "station": "Mexico City",
+        "temperature": 20.85099041666666666666666666666667,
+        "temperaturesSize": 48,
+        "temperaturesSum": 1000.84754
+    },
+    {
+        "station": "Seoul",
+        "temperature": 19.57843677966101694915254237288136,
+        "temperaturesSize": 59,
+        "temperaturesSum": 1155.12777
+    },
+    {
+        "station": "Buenos Aires",
+        "temperature": 22.22118266666666666666666666666667,
+        "temperaturesSize": 45,
+        "temperaturesSum": 999.95322
+    },
+    {
+        "station": "São Paulo",
+        "temperature": 19.01755075471698113207547169811321,
+        "temperaturesSize": 53,
+        "temperaturesSum": 1007.93019
+    },
+    {
+        "station": "New York",
+        "temperature": 22.04149159090909090909090909090909,
+        "temperaturesSize": 44,
+        "temperaturesSum": 969.82563
+    },
+    {
+        "station": "Mumbai",
+        "temperature": 19.9755630952380952380952380952381,
+        "temperaturesSize": 42,
+        "temperaturesSum": 838.97365
+    },
+    {
+        "station": "Delhi",
+        "temperature": 19.85125346938775510204081632653061,
+        "temperaturesSize": 49,
+        "temperaturesSum": 972.71142
+    },
+    {
+        "station": "Bangkok",
+        "temperature": 19.90367576923076923076923076923077,
+        "temperaturesSize": 52,
+        "temperaturesSum": 1034.99114
+    },
+    {
+        "station": "Jakarta",
+        "temperature": 19.10610387755102040816326530612245,
+        "temperaturesSize": 49,
+        "temperaturesSum": 936.19909
+    },
+    {
+        "station": "Cairo",
+        "temperature": 18.64045886363636363636363636363636,
+        "temperaturesSize": 44,
+        "temperaturesSum": 820.18019
+    },
+    {
+        "station": "Shenzhen",
+        "temperature": 20.26828088888888888888888888888889,
+        "temperaturesSize": 45,
+        "temperaturesSum": 912.07264
+    }
+]
