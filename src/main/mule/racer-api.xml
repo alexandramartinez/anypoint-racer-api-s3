@@ -7,7 +7,7 @@
     <configuration-properties file="config.yaml" doc:name="Configuration properties" />
     <apikit:config name="racer-api-config" api="resource::b903eebf-16e9-46c5-8992-bffd66c2306c:amartinez-racer-api:1.0.0:raml:zip:racer-api.raml" outboundHeadersMapName="outboundHeaders" httpStatusVarName="httpStatus" />
     <flow name="racer-api-main">
-        <http:listener config-ref="racer-api-httpListenerConfig" path="/api/*">
+        <http:listener config-ref="racer-api-httpListenerConfig" path="/api/*" >
             <http:response statusCode="#[vars.httpStatus default 200]">
                 <http:headers>#[vars.outboundHeaders default {}]</http:headers>
             </http:response>

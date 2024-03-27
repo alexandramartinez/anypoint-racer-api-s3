@@ -1,7 +1,7 @@
 %dw 2.0
 @StreamCapable()
-input payload application/json
-output application/json indent = false
+input payload application/json streaming=true
+output application/json indent=false, deferred=true
 import indexWhere from dw::core::Arrays
 ---
 payload reduce ((item, acc=[]) -> do {
