@@ -130,15 +130,9 @@ output application/json
         </ee:transform>
     </flow>
     <flow name="post:\temperatures:application\json:racer-api-config">
-        <set-payload value="#[payload]" doc:name="streaming=true" doc:id="vijjdc" mimeType='application/json; streaming=true'/>
         <ee:transform doc:name="Transform">
             <ee:message>
                 <ee:set-payload resource="dw/transform.dwl" />
-            </ee:message>
-        </ee:transform>
-        <ee:transform doc:name="after streaming">
-            <ee:message>
-                <ee:set-payload resource="dw/transform2.dwl" />
             </ee:message>
         </ee:transform>
     </flow>
