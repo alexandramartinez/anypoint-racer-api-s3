@@ -142,8 +142,7 @@ output application/json
         </ee:transform>
     </flow>
     <flow name="post:\races\(id)\laps:text\plain:racer-api-config">
-        <set-variable value="#[payload]" doc:name="newToken" doc:id="eseosl" variableName="newToken" />
-        <set-variable value="#[attributes.uriParams.id]" variableName="raceId" doc:name="raceId" doc:id="xqpduj" />
+        <set-variable value="#[payload]" variableName="newToken" doc:name="newToken" doc:id="dkkxvu" />
         <os:retrieve key="token" doc:name="originalToken" doc:id="fudcos" target="originalToken" />
         <os:store key="token" doc:name="newToken" doc:id="uerykt">
             <os:value>#[vars.newToken]</os:value>
